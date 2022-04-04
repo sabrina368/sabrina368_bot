@@ -1,0 +1,8 @@
+{
+  "name": "new-project",
+  "author": "sabrina368",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest"
+  }
+}
